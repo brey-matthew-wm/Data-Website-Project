@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+
+#title {
+   text-align: center;
+    font-family: "Trebuchet MS", times, serif;
+}
+#title2 {
+    text-align: center;
+    font-family: "Trebuchet MS", times, serif;
+}
+#chart_div {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+}
+#links h2 {
+    text-align: center;
+}
+#links {
+    text-align: center;
+}
